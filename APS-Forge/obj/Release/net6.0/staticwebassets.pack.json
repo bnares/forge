@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\forge\\APS-Forge\\APS-Forge\\wwwroot\\Extensions\\BaseExtension.js",
+      "PackagePath": "staticwebassets\\Extensions\\BaseExtension.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\forge\\APS-Forge\\APS-Forge\\wwwroot\\Extensions\\DataGridExtension.js",
+      "PackagePath": "staticwebassets\\Extensions\\DataGridExtension.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\forge\\APS-Forge\\APS-Forge\\wwwroot\\Extensions\\DataGridPanel.js",
+      "PackagePath": "staticwebassets\\Extensions\\DataGridPanel.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\forge\\APS-Forge\\APS-Forge\\wwwroot\\Extensions\\HistogramExtension.js",
+      "PackagePath": "staticwebassets\\Extensions\\HistogramExtension.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\forge\\APS-Forge\\APS-Forge\\wwwroot\\Extensions\\HistogramPanel.js",
+      "PackagePath": "staticwebassets\\Extensions\\HistogramPanel.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\forge\\APS-Forge\\APS-Forge\\wwwroot\\Extensions\\LoggerExtension.js",
+      "PackagePath": "staticwebassets\\Extensions\\LoggerExtension.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\forge\\APS-Forge\\APS-Forge\\wwwroot\\Extensions\\SummaryExtension.js",
+      "PackagePath": "staticwebassets\\Extensions\\SummaryExtension.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\forge\\APS-Forge\\APS-Forge\\wwwroot\\Extensions\\SummaryPanel.js",
+      "PackagePath": "staticwebassets\\Extensions\\SummaryPanel.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\forge\\APS-Forge\\APS-Forge\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\forge\\APS-Forge\\APS-Forge\\wwwroot\\main.css",
+      "PackagePath": "staticwebassets\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\forge\\APS-Forge\\APS-Forge\\wwwroot\\main.js",
+      "PackagePath": "staticwebassets\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\forge\\APS-Forge\\APS-Forge\\wwwroot\\viewer.js",
+      "PackagePath": "staticwebassets\\viewer.js"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.APS-Forge.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.APS-Forge.props",
+      "PackagePath": "build\\APS-Forge.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.APS-Forge.props",
+      "PackagePath": "buildMultiTargeting\\APS-Forge.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.APS-Forge.props",
+      "PackagePath": "buildTransitive\\APS-Forge.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" type="image/x-icon" href="https://cdn.autodesk.io/favicon.ico">
+    <link rel="stylesheet" href="https://developer.api.autodesk.com/modelderivative/v2/viewers/7.*/style.css">
+    <link rel="stylesheet" href="/main.css">
+    <title>Piotr Ostrouch - Model</title>
+</head>
+
+<body>
+    <div id="header">
+        <img class="logo" src="https://images.pexels.com/photos/17483906/pexels-photo-17483906/free-photo-of-technologia-badania-technika-dane.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Piotr Ostrouch - Model">
+        <span class="title">Piotr Ostrouch - Model</span>
+        <select name="models" id="models"></select>
+        <button id="upload" title="Upload New Model">Upload</button>
+        <input style="display: none" type="file" id="input">
+    </div>
+    <div id="preview"></div>
+    <div id="overlay"></div>
+    <script src="https://developer.api.autodesk.com/modelderivative/v2/viewers/7.*/viewer3D.js"></script>
+    <script src="/main.js" type="module"></script>
+</body>
+
+</html>
